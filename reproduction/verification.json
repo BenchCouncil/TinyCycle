@@ -1,0 +1,77 @@
+{
+  "passed": true,
+  "fresh_validation_candidate_rows": 481280,
+  "fresh_final_models": 32,
+  "data_fingerprints_match": true,
+  "test_freeze_hashes_match": true,
+  "full_run_source_hashes_match": true,
+  "release_numerical_source_hashes_match_full_run": true,
+  "post_run_changed_runtime_files": [
+    "run.py"
+  ],
+  "post_run_change": "Added all-dataset frozen-artifact preflight in the CLI; numerical routines unchanged. Verified by dedicated regression tests.",
+  "max_final_weight_difference_from_paper": 3.587408148320037e-15,
+  "max_metric_differences_from_paper": {
+    "validation_mse": 2.220446049250313e-16,
+    "test_mse": 1.6653345369377348e-16,
+    "test_mae": 1.6653345369377348e-16
+  },
+  "summary": {
+    "tasks": 32,
+    "fit_split": "train",
+    "selection_split": "validation",
+    "selection_rule": "equal_mean_of_per_horizon_normalized_validation_mse",
+    "final_lookback_rule": "keep_validation_selected_period_and_set_cycles_to_floor_720_over_period",
+    "mean_test_mse": 0.3208019092855713,
+    "mean_test_mae": 0.3446035924245721,
+    "mean_parameters": 25.25,
+    "mean_lookback": 708.0
+  },
+  "unit_tests": {
+    "passed": 20,
+    "failed": 0
+  },
+  "environment": {
+    "python": "3.9.6",
+    "os": "macOS",
+    "architecture": "arm64",
+    "threads": 2,
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "torch": "2.8.0",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.13.1"
+  },
+  "full_run_source_sha256": {
+    "all_order_stats.py": "01e60d6b1690e77166b2ef24f790b2a96502e492569fa6f1c07789775c099aca",
+    "config.py": "4d6e8ea4efa11a583524fac37a9c1adeea265cb9a4cd1c90b587420791ad2d07",
+    "data.py": "dbe6aa49aaeabfc3fc3c84f5bfcb6a28b2e8a6c48f76c19521cd4085d8354591",
+    "evaluate.py": "ddc4f10c8cfea6abef5e86b057c3a6c87e834a6fe17a58f1e19cf5d0d38e0bf1",
+    "fit_boundary.py": "6748e5f1ed9d7fa0ff131005f5e5dc2054218362fae31b6230362f5ada736ea5",
+    "io_utils.py": "23dbf1cc03d869a70992867c40b416a1fe022f120d11b0f1865e99172639e0c0",
+    "kernel_scoring.py": "1a32bdb8d7b711b2420519b2deaddfc8d3a43866765f7712e657f96b21b60af8",
+    "pipeline.py": "18894831c2852afc64a0e02e721829b27be471f39bf52dac4a56381772412e4c",
+    "run.py": "7ad436ee8f042d642228817bbb534d6c7cd487522c60cc7b2070144d8d2d3942",
+    "search.py": "21fc7fd2f08c566c5741584f185402e05e7ddfeda1a5c6ec81f33115d1485f5e",
+    "selection.py": "ec8e41034771da87cabc9c06f768c48128752c1908d424eb091570fb660e3e48",
+    "train.py": "080fc16f32efadcc38bf889d660e2ea606617cf60a05dcb4169eb3bc6d904ad5",
+    "models/TinyCycle.py": "232ed5a4a9bad4b0008c448f2883f148bcc0ee8b247e450f2faf0e7de6c56016",
+    "models/__init__.py": "c592bd8ad7164b28d55fa15a103fc5346e26a61f792cd0982f1b0609241c9ca2"
+  },
+  "release_runtime_source_sha256": {
+    "all_order_stats.py": "01e60d6b1690e77166b2ef24f790b2a96502e492569fa6f1c07789775c099aca",
+    "config.py": "4d6e8ea4efa11a583524fac37a9c1adeea265cb9a4cd1c90b587420791ad2d07",
+    "data.py": "dbe6aa49aaeabfc3fc3c84f5bfcb6a28b2e8a6c48f76c19521cd4085d8354591",
+    "evaluate.py": "ddc4f10c8cfea6abef5e86b057c3a6c87e834a6fe17a58f1e19cf5d0d38e0bf1",
+    "fit_boundary.py": "6748e5f1ed9d7fa0ff131005f5e5dc2054218362fae31b6230362f5ada736ea5",
+    "io_utils.py": "23dbf1cc03d869a70992867c40b416a1fe022f120d11b0f1865e99172639e0c0",
+    "kernel_scoring.py": "1a32bdb8d7b711b2420519b2deaddfc8d3a43866765f7712e657f96b21b60af8",
+    "pipeline.py": "18894831c2852afc64a0e02e721829b27be471f39bf52dac4a56381772412e4c",
+    "run.py": "0a53e029e49261d918ba2cf4fced4ed77d1ed6bcb7f7b440bcaf15afb93c8f69",
+    "search.py": "21fc7fd2f08c566c5741584f185402e05e7ddfeda1a5c6ec81f33115d1485f5e",
+    "selection.py": "ec8e41034771da87cabc9c06f768c48128752c1908d424eb091570fb660e3e48",
+    "train.py": "080fc16f32efadcc38bf889d660e2ea606617cf60a05dcb4169eb3bc6d904ad5",
+    "models/TinyCycle.py": "232ed5a4a9bad4b0008c448f2883f148bcc0ee8b247e450f2faf0e7de6c56016",
+    "models/__init__.py": "c592bd8ad7164b28d55fa15a103fc5346e26a61f792cd0982f1b0609241c9ca2"
+  }
+}

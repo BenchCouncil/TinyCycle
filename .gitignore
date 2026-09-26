@@ -1,0 +1,21 @@
+# Local environments and Python build/cache files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+/.pytest_cache/
+/build/
+/dist/
+
+# Local benchmark data and generated runs; keep reproduction/reference_32_tasks.csv
+/dataset/
+/results/
+/outputs/
+
+# Local editor/OS state and environment secrets
+.DS_Store
+.env
+.env.*
+/.idea/
+/.vscode/

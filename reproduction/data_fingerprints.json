@@ -1,0 +1,77 @@
+{
+  "description": "SHA-256 of row-major float32 numeric arrays after the documented column ordering, before standardization. For post-run comparison only.",
+  "datasets": {
+    "ETTh1": {
+      "train_end": 8640,
+      "val_end": 11520,
+      "test_end": 14400,
+      "channels": 7,
+      "train_sha256": "890d5f8114408c11ef88bf1bea1ead71fde40ef04bfeaf230d4634bf6c5a261e",
+      "development_sha256": "00da6ea4a8982a230e32db9878bea0af2ffb6d4fb1a87e732743bb8a9c6e5bcf",
+      "test_sha256": "4295c22554fbb89b03970ac65ed787ece697c987553fcf856fe35f1ae4a4cf7b"
+    },
+    "ETTh2": {
+      "train_end": 8640,
+      "val_end": 11520,
+      "test_end": 14400,
+      "channels": 7,
+      "train_sha256": "466466ef07c862b1983efb26aacdeb82ecea27e925f82450d61f1cb4dc4d732f",
+      "development_sha256": "62c95ce49d1c60a80f5437b758859f1f4d87e9546ace6cfd5c749fe888066107",
+      "test_sha256": "a0b6841b17d81953913d377486994951cdf62dc5e0459fa5e4d0121ee46b547b"
+    },
+    "ETTm1": {
+      "train_end": 34560,
+      "val_end": 46080,
+      "test_end": 57600,
+      "channels": 7,
+      "train_sha256": "7bfc8ce668f4c88dfb0f045dd689cc5486cc83b312d4002f169f4b44ef855ef8",
+      "development_sha256": "53e55dae4618b686758d022eb29b9940e6b46e520e8adf2dd8174b6333c84e23",
+      "test_sha256": "b563a88300fcbdc45b54e09c26e5ae1350fb3252082c729ceb0573fa35350112"
+    },
+    "ETTm2": {
+      "train_end": 34560,
+      "val_end": 46080,
+      "test_end": 57600,
+      "channels": 7,
+      "train_sha256": "832eeb1a50c52714c69c431d10f3f701efd7300a337f95dd076fd5defdb1bd9c",
+      "development_sha256": "256a04a2edddd1ef9fffac7066ddf785bc43fd5c1abade0a6bfa4e384c8f2589",
+      "test_sha256": "8569c56506b00491dc8d00a10a1d13cdcb75ad9868743084cdc156805a4e59ce"
+    },
+    "Electricity": {
+      "train_end": 18412,
+      "val_end": 21044,
+      "test_end": 26304,
+      "channels": 321,
+      "train_sha256": "33c90849506454806122c20954c9240fcaf2418e58e3e597aeea52100a6dcba9",
+      "development_sha256": "c53b1f6b85f29415f544c4e8d4cc39c16470fe99baaffa8475c58df41adea90d",
+      "test_sha256": "0bf890462ecbc8a41ec35de274e788635a0c0e6aae5f8c5fe066bd3aae345503"
+    },
+    "Exchange": {
+      "train_end": 5311,
+      "val_end": 6071,
+      "test_end": 7588,
+      "channels": 8,
+      "train_sha256": "2ab6cad13eb57051ee6b9721ea6c000e340ba56e61f62d8a23354507fde56c9b",
+      "development_sha256": "1aa4b257d5831e152e299b437ea44377f2016c37a28345a296bb5304c1f3679a",
+      "test_sha256": "5fdd6b7a9c36c572b1f9793e8b439f46723ac448c8c8394081d44e25a5e984ef"
+    },
+    "Traffic": {
+      "train_end": 12280,
+      "val_end": 14036,
+      "test_end": 17544,
+      "channels": 862,
+      "train_sha256": "722c92390dc217963931b66a7f755d342699723b22bbc64fd73e8ac277ea489e",
+      "development_sha256": "7c10d759b33acd9cc31a9b43fd9c447273621bfd0ce97dcd53898c8545ef5af5",
+      "test_sha256": "35532a8a336769b05a28c5d5e737479083a428869dfe27f1461ac27723f94556"
+    },
+    "Weather": {
+      "train_end": 36887,
+      "val_end": 42157,
+      "test_end": 52696,
+      "channels": 21,
+      "train_sha256": "db7521eb9437abea390f1facf93e4e5cab271622046d7960a1b5443f66460faa",
+      "development_sha256": "b785a6b3f44e88efcd509b8700916d86b04e0e0eb70830bae542a1775cf3b7f1",
+      "test_sha256": "cefab25f5ca4a51684cd61527cbd26c31224e0112580bf74212dc0ae966e684b"
+    }
+  }
+}
