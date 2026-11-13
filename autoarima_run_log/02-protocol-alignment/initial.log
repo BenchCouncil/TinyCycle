@@ -1,0 +1,117 @@
+Starting ETTh1
+{'dataset': 'ETTh1', 'protocol': 'released_code', 'lookback': 512, 'horizon': 96, 'first_origin': 11520, 'origins': 2785, 'channels': 7, 'mse': np.float64(0.6406694317872633), 'mae': np.float64(0.5341049633337424), 'top1_mse_share': np.float64(0.33437128006023903)}
+{'dataset': 'ETTh1', 'protocol': 'released_code', 'lookback': 512, 'horizon': 192, 'first_origin': 11520, 'origins': 2689, 'channels': 7, 'mse': np.float64(0.7015613371458675), 'mae': np.float64(0.5626973664975627), 'top1_mse_share': np.float64(0.3452556159784454)}
+{'dataset': 'ETTh1', 'protocol': 'released_code', 'lookback': 512, 'horizon': 336, 'first_origin': 11520, 'origins': 2545, 'channels': 7, 'mse': np.float64(0.7323267708264296), 'mae': np.float64(0.5825046109745369), 'top1_mse_share': np.float64(0.3455226629402644)}
+{'dataset': 'ETTh1', 'protocol': 'released_code', 'lookback': 512, 'horizon': 720, 'first_origin': 11520, 'origins': 2161, 'channels': 7, 'mse': np.float64(0.739379221772613), 'mae': np.float64(0.6018161957770977), 'top1_mse_share': np.float64(0.3377657819083244)}
+{'dataset': 'ETTh1', 'protocol': 'released_code', 'lookback': 720, 'horizon': 96, 'first_origin': 11520, 'origins': 2785, 'channels': 7, 'mse': np.float64(0.6406695008215147), 'mae': np.float64(0.5341050550738776), 'top1_mse_share': np.float64(0.33437124403063534)}
+{'dataset': 'ETTh1', 'protocol': 'released_code', 'lookback': 720, 'horizon': 192, 'first_origin': 11520, 'origins': 2689, 'channels': 7, 'mse': np.float64(0.701561427321864), 'mae': np.float64(0.5626975013862098), 'top1_mse_share': np.float64(0.3452555716006256)}
+{'dataset': 'ETTh1', 'protocol': 'released_code', 'lookback': 720, 'horizon': 336, 'first_origin': 11520, 'origins': 2545, 'channels': 7, 'mse': np.float64(0.7323268532752414), 'mae': np.float64(0.5825047413154375), 'top1_mse_share': np.float64(0.34552262403969636)}
+{'dataset': 'ETTh1', 'protocol': 'released_code', 'lookback': 720, 'horizon': 720, 'first_origin': 11520, 'origins': 2161, 'channels': 7, 'mse': np.float64(0.7393792854543028), 'mae': np.float64(0.6018162824325926), 'top1_mse_share': np.float64(0.33776575281703936)}
+Starting ETTh2
+{'dataset': 'ETTh2', 'protocol': 'released_code', 'lookback': 512, 'horizon': 96, 'first_origin': 11520, 'origins': 2785, 'channels': 7, 'mse': np.float64(0.32402308978913286), 'mae': np.float64(0.3680829690200621), 'top1_mse_share': np.float64(0.3238093663230354)}
+{'dataset': 'ETTh2', 'protocol': 'released_code', 'lookback': 512, 'horizon': 192, 'first_origin': 11520, 'origins': 2689, 'channels': 7, 'mse': np.float64(0.410757104613374), 'mae': np.float64(0.41849545303215185), 'top1_mse_share': np.float64(0.3312568735819548)}
+{'dataset': 'ETTh2', 'protocol': 'released_code', 'lookback': 512, 'horizon': 336, 'first_origin': 11520, 'origins': 2545, 'channels': 7, 'mse': np.float64(0.4556178027355049), 'mae': np.float64(0.45376476526722725), 'top1_mse_share': np.float64(0.2856356843305484)}
+{'dataset': 'ETTh2', 'protocol': 'released_code', 'lookback': 512, 'horizon': 720, 'first_origin': 11520, 'origins': 2161, 'channels': 7, 'mse': np.float64(0.4615974543242922), 'mae': np.float64(0.4667424764537165), 'top1_mse_share': np.float64(0.2667961007230529)}
+{'dataset': 'ETTh2', 'protocol': 'released_code', 'lookback': 720, 'horizon': 96, 'first_origin': 11520, 'origins': 2785, 'channels': 7, 'mse': np.float64(0.3241104050596544), 'mae': np.float64(0.3681202470002255), 'top1_mse_share': np.float64(0.3237221856352345)}
+{'dataset': 'ETTh2', 'protocol': 'released_code', 'lookback': 720, 'horizon': 192, 'first_origin': 11520, 'origins': 2689, 'channels': 7, 'mse': np.float64(0.41087780542259683), 'mae': np.float64(0.41855823925074603), 'top1_mse_share': np.float64(0.3311595336147196)}
+{'dataset': 'ETTh2', 'protocol': 'released_code', 'lookback': 720, 'horizon': 336, 'first_origin': 11520, 'origins': 2545, 'channels': 7, 'mse': np.float64(0.4557034344191101), 'mae': np.float64(0.45381018107817167), 'top1_mse_share': np.float64(0.2855820825786132)}
+{'dataset': 'ETTh2', 'protocol': 'released_code', 'lookback': 720, 'horizon': 720, 'first_origin': 11520, 'origins': 2161, 'channels': 7, 'mse': np.float64(0.46159358826651087), 'mae': np.float64(0.46675015677791815), 'top1_mse_share': np.float64(0.2667983608682604)}
+Starting ETTm1
+{'dataset': 'ETTm1', 'protocol': 'released_code', 'lookback': 512, 'horizon': 96, 'first_origin': 46080, 'origins': 11425, 'channels': 7, 'mse': np.float64(1.3320181342680772), 'mae': np.float64(0.6736127147938363), 'top1_mse_share': np.float64(0.4173629840655707)}
+{'dataset': 'ETTm1', 'protocol': 'released_code', 'lookback': 512, 'horizon': 192, 'first_origin': 46080, 'origins': 11329, 'channels': 7, 'mse': np.float64(1.4239944439093752), 'mae': np.float64(0.7181575323399443), 'top1_mse_share': np.float64(0.4015235382381523)}
+{'dataset': 'ETTm1', 'protocol': 'released_code', 'lookback': 512, 'horizon': 336, 'first_origin': 46080, 'origins': 11185, 'channels': 7, 'mse': np.float64(1.5565623486434614), 'mae': np.float64(0.7729468930563878), 'top1_mse_share': np.float64(0.3698899223760955)}
+{'dataset': 'ETTm1', 'protocol': 'released_code', 'lookback': 512, 'horizon': 720, 'first_origin': 46080, 'origins': 10801, 'channels': 7, 'mse': np.float64(2.1493551762751006), 'mae': np.float64(0.9221163300631703), 'top1_mse_share': np.float64(0.3957814814344917)}
+{'dataset': 'ETTm1', 'protocol': 'released_code', 'lookback': 720, 'horizon': 96, 'first_origin': 46080, 'origins': 11425, 'channels': 7, 'mse': np.float64(1.3320184423369197), 'mae': np.float64(0.6736129697493553), 'top1_mse_share': np.float64(0.4173628875379797)}
+{'dataset': 'ETTm1', 'protocol': 'released_code', 'lookback': 720, 'horizon': 192, 'first_origin': 46080, 'origins': 11329, 'channels': 7, 'mse': np.float64(1.4239946007344082), 'mae': np.float64(0.7181574858431182), 'top1_mse_share': np.float64(0.40152349401822185)}
+{'dataset': 'ETTm1', 'protocol': 'released_code', 'lookback': 720, 'horizon': 336, 'first_origin': 46080, 'origins': 11185, 'channels': 7, 'mse': np.float64(1.5565624524703885), 'mae': np.float64(0.7729466814111723), 'top1_mse_share': np.float64(0.36988989770343694)}
+{'dataset': 'ETTm1', 'protocol': 'released_code', 'lookback': 720, 'horizon': 720, 'first_origin': 46080, 'origins': 10801, 'channels': 7, 'mse': np.float64(2.149355726119119), 'mae': np.float64(0.9221161832235174), 'top1_mse_share': np.float64(0.39578182052504396)}
+Starting ETTm2
+{'dataset': 'ETTm2', 'protocol': 'released_code', 'lookback': 512, 'horizon': 96, 'first_origin': 46080, 'origins': 11425, 'channels': 7, 'mse': np.float64(0.22101070918243856), 'mae': np.float64(0.2967584989529726), 'top1_mse_share': np.float64(0.29829110041543094)}
+{'dataset': 'ETTm2', 'protocol': 'released_code', 'lookback': 512, 'horizon': 192, 'first_origin': 46080, 'origins': 11329, 'channels': 7, 'mse': np.float64(0.29387797497166324), 'mae': np.float64(0.34053013932468396), 'top1_mse_share': np.float64(0.3155679969856008)}
+{'dataset': 'ETTm2', 'protocol': 'released_code', 'lookback': 512, 'horizon': 336, 'first_origin': 46080, 'origins': 11185, 'channels': 7, 'mse': np.float64(0.36492149310184824), 'mae': np.float64(0.38113661406134325), 'top1_mse_share': np.float64(0.32464572297369065)}
+{'dataset': 'ETTm2', 'protocol': 'released_code', 'lookback': 512, 'horizon': 720, 'first_origin': 46080, 'origins': 10801, 'channels': 7, 'mse': np.float64(0.4715425860805938), 'mae': np.float64(0.4380727717527848), 'top1_mse_share': np.float64(0.33824331666621954)}
+{'dataset': 'ETTm2', 'protocol': 'released_code', 'lookback': 720, 'horizon': 96, 'first_origin': 46080, 'origins': 11425, 'channels': 7, 'mse': np.float64(0.2210104779260773), 'mae': np.float64(0.29675845912986765), 'top1_mse_share': np.float64(0.29829141253508756)}
+{'dataset': 'ETTm2', 'protocol': 'released_code', 'lookback': 720, 'horizon': 192, 'first_origin': 46080, 'origins': 11329, 'channels': 7, 'mse': np.float64(0.29387748562222227), 'mae': np.float64(0.34053005970078853), 'top1_mse_share': np.float64(0.3155685224529484)}
+{'dataset': 'ETTm2', 'protocol': 'released_code', 'lookback': 720, 'horizon': 336, 'first_origin': 46080, 'origins': 11185, 'channels': 7, 'mse': np.float64(0.3649209135585559), 'mae': np.float64(0.38113652110574875), 'top1_mse_share': np.float64(0.32464623855458546)}
+{'dataset': 'ETTm2', 'protocol': 'released_code', 'lookback': 720, 'horizon': 720, 'first_origin': 46080, 'origins': 10801, 'channels': 7, 'mse': np.float64(0.4715419828409627), 'mae': np.float64(0.4380727690321231), 'top1_mse_share': np.float64(0.3382437493780056)}
+Starting Weather
+{'dataset': 'Weather', 'protocol': 'released_code', 'lookback': 512, 'horizon': 96, 'first_origin': 42157, 'origins': 10444, 'channels': 21, 'mse': np.float64(0.21922878841078686), 'mae': np.float64(0.25501445941316436), 'top1_mse_share': np.float64(0.21219686761030823)}
+{'dataset': 'Weather', 'protocol': 'released_code', 'lookback': 512, 'horizon': 192, 'first_origin': 42157, 'origins': 10348, 'channels': 21, 'mse': np.float64(0.2650401151367063), 'mae': np.float64(0.29623037657334045), 'top1_mse_share': np.float64(0.18066389697387317)}
+{'dataset': 'Weather', 'protocol': 'released_code', 'lookback': 512, 'horizon': 336, 'first_origin': 42157, 'origins': 10204, 'channels': 21, 'mse': np.float64(0.33291786548443597), 'mae': np.float64(0.3441992543875752), 'top1_mse_share': np.float64(0.14613385547392074)}
+{'dataset': 'Weather', 'protocol': 'released_code', 'lookback': 512, 'horizon': 720, 'first_origin': 42157, 'origins': 9820, 'channels': 21, 'mse': np.float64(0.4271507050441773), 'mae': np.float64(0.4025099532832477), 'top1_mse_share': np.float64(0.13893925431913018)}
+{'dataset': 'Weather', 'protocol': 'released_code', 'lookback': 720, 'horizon': 96, 'first_origin': 42157, 'origins': 10444, 'channels': 21, 'mse': np.float64(0.21922779257089656), 'mae': np.float64(0.2550256050441217), 'top1_mse_share': np.float64(0.21219783151229749)}
+{'dataset': 'Weather', 'protocol': 'released_code', 'lookback': 720, 'horizon': 192, 'first_origin': 42157, 'origins': 10348, 'channels': 21, 'mse': np.float64(0.2650380084209068), 'mae': np.float64(0.2962411363865118), 'top1_mse_share': np.float64(0.1806653330225683)}
+{'dataset': 'Weather', 'protocol': 'released_code', 'lookback': 720, 'horizon': 336, 'first_origin': 42157, 'origins': 10204, 'channels': 21, 'mse': np.float64(0.3329149863627646), 'mae': np.float64(0.3442087881505227), 'top1_mse_share': np.float64(0.14613511927148903)}
+{'dataset': 'Weather', 'protocol': 'released_code', 'lookback': 720, 'horizon': 720, 'first_origin': 42157, 'origins': 9820, 'channels': 21, 'mse': np.float64(0.4271464128554007), 'mae': np.float64(0.402507379232395), 'top1_mse_share': np.float64(0.13894065045284393)}
+Starting Electricity
+{'dataset': 'Electricity', 'protocol': 'released_code', 'lookback': 512, 'horizon': 96, 'first_origin': 21044, 'origins': 5165, 'channels': 321, 'mse': np.float64(1.3498579557908745), 'mae': np.float64(0.866681830646692), 'top1_mse_share': np.float64(0.023124695425473487)}
+{'dataset': 'Electricity', 'protocol': 'released_code', 'lookback': 512, 'horizon': 192, 'first_origin': 21044, 'origins': 5069, 'channels': 321, 'mse': np.float64(1.7614854152078316), 'mae': np.float64(0.9376331610098733), 'top1_mse_share': np.float64(0.06432462793437514)}
+{'dataset': 'Electricity', 'protocol': 'released_code', 'lookback': 512, 'horizon': 336, 'first_origin': 21044, 'origins': 4925, 'channels': 321, 'mse': np.float64(2.831342699034313), 'mae': np.float64(1.0468202039209402), 'top1_mse_share': np.float64(0.11927324561449994)}
+{'dataset': 'Electricity', 'protocol': 'released_code', 'lookback': 512, 'horizon': 720, 'first_origin': 21044, 'origins': 4541, 'channels': 321, 'mse': np.float64(8.330184307842574), 'mae': np.float64(1.335445628041392), 'top1_mse_share': np.float64(0.18384943001141987)}
+{'dataset': 'Electricity', 'protocol': 'released_code', 'lookback': 720, 'horizon': 96, 'first_origin': 21044, 'origins': 5165, 'channels': 321, 'mse': np.float64(1.350014189835263), 'mae': np.float64(0.8667192862973915), 'top1_mse_share': np.float64(0.02312201925753473)}
+{'dataset': 'Electricity', 'protocol': 'released_code', 'lookback': 720, 'horizon': 192, 'first_origin': 21044, 'origins': 5069, 'channels': 321, 'mse': np.float64(1.7615727981402873), 'mae': np.float64(0.9376404571166793), 'top1_mse_share': np.float64(0.06432143710705068)}
+{'dataset': 'Electricity', 'protocol': 'released_code', 'lookback': 720, 'horizon': 336, 'first_origin': 21044, 'origins': 4925, 'channels': 321, 'mse': np.float64(2.831448743581832), 'mae': np.float64(1.046830978225532), 'top1_mse_share': np.float64(0.11926877854533913)}
+{'dataset': 'Electricity', 'protocol': 'released_code', 'lookback': 720, 'horizon': 720, 'first_origin': 21044, 'origins': 4541, 'channels': 321, 'mse': np.float64(8.330383708886655), 'mae': np.float64(1.335473812603287), 'top1_mse_share': np.float64(0.18384502928156393)}
+Starting Traffic
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "python3.9/concurrent/futures/process.py", line 246, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "python3.9/concurrent/futures/process.py", line 205, in _process_chunk
+    return [fn(*args) for args in chunk]
+  File "python3.9/concurrent/futures/process.py", line 205, in <listcomp>
+    return [fn(*args) for args in chunk]
+  File "autoarima719/alignment/run.py", line 57, in score_channel
+    np.testing.assert_allclose((x @ history) @ future + intercept, expected, rtol=1e-7, atol=1e-7)
+  File "site-packages/numpy/testing/_private/utils.py", line 1684, in assert_allclose
+    assert_array_compare(compare, actual, desired, err_msg=str(err_msg),
+  File "python3.9/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "site-packages/numpy/testing/_private/utils.py", line 885, in assert_array_compare
+    raise AssertionError(msg)
+AssertionError: 
+Not equal to tolerance rtol=1e-07, atol=1e-07
+
+Mismatched elements: 720 / 720 (100%)
+Max absolute difference among violations: 2.45375591
+Max relative difference among violations: 1.33013684
+ ACTUAL: array([-1.566477e+00, -1.151598e+00, -7.088890e-01, -3.145962e-01,
+        2.536311e-02,  2.964613e-01,  4.857204e-01,  5.870696e-01,
+        6.090165e-01,  5.670797e-01,  4.792620e-01,  3.633715e-01,...
+ DESIRED: array([-1.844739, -1.844739, -1.844739, -1.844739, -1.844739, -1.844739,
+       -1.844739, -1.844739, -1.844739, -1.844739, -1.844739, -1.844739,
+       -1.844739, -1.844739, -1.844739, -1.844739, -1.844739, -1.844739,...
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "autoarima719/alignment/run.py", line 159, in <module>
+    main()
+  File "autoarima719/alignment/run.py", line 149, in main
+    rows = run_dataset(dataset, args, pool)
+  File "autoarima719/alignment/run.py", line 111, in run_dataset
+    rows.extend(score(values, start, first, dataset, 'released_code', freeze(selected), pool))
+  File "autoarima719/alignment/run.py", line 121, in score
+    by_channel = np.array(list(pool.map(score_channel, jobs)))
+  File "python3.9/concurrent/futures/process.py", line 562, in _chain_from_iterable_of_lists
+    for element in iterable:
+  File "python3.9/concurrent/futures/_base.py", line 609, in result_iterator
+    yield fs.pop().result()
+  File "python3.9/concurrent/futures/_base.py", line 439, in result
+    return self.__get_result()
+  File "python3.9/concurrent/futures/_base.py", line 391, in __get_result
+    raise self._exception
+AssertionError: 
+Not equal to tolerance rtol=1e-07, atol=1e-07
+
+Mismatched elements: 720 / 720 (100%)
+Max absolute difference among violations: 2.45375591
+Max relative difference among violations: 1.33013684
+ ACTUAL: array([-1.566477e+00, -1.151598e+00, -7.088890e-01, -3.145962e-01,
+        2.536311e-02,  2.964613e-01,  4.857204e-01,  5.870696e-01,
+        6.090165e-01,  5.670797e-01,  4.792620e-01,  3.633715e-01,...
+ DESIRED: array([-1.844739, -1.844739, -1.844739, -1.844739, -1.844739, -1.844739,
+       -1.844739, -1.844739, -1.844739, -1.844739, -1.844739, -1.844739,
+       -1.844739, -1.844739, -1.844739, -1.844739, -1.844739, -1.844739,...

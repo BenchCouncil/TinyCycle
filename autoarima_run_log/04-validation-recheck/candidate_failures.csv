@@ -1,0 +1,19 @@
+dataset,channel,candidate,reason
+Traffic,384,p719_same_order_no_drift,"
+Not equal to tolerance rtol=1e-07, atol=1e-07
+
+Mismatched elements: 720 / 720 (100%)
+First 5 mismatches are at indices:
+ [0]: -11092.788484479926 (ACTUAL), -3042711.660162695 (DESIRED)
+ [1]: -42188.04433532762 (ACTUAL), -6169914.121245474 (DESIRED)
+ [2]: -53541.87708002527 (ACTUAL), -9388378.432862716 (DESIRED)
+ [3]: -85002.73342884533 (ACTUAL), -12693101.539562162 (DESIRED)
+ [4]: -96614.68942933042 (ACTUAL), -16090872.794254404 (DESIRED)
+Max absolute difference among violations: 7.98556178e+10
+Max relative difference among violations: 0.99891124
+ ACTUAL: array([-1.109279e+04, -4.218804e+04, -5.354188e+04, -8.500273e+04,
+       -9.661469e+04, -1.284432e+05, -1.403153e+05, -1.725136e+05,
+       -1.846479e+05, -2.172179e+05, -2.296165e+05, -2.625603e+05,...
+ DESIRED: array([-3.042712e+06, -6.169914e+06, -9.388378e+06, -1.269310e+07,
+       -1.609087e+07, -1.957668e+07, -2.315731e+07, -2.682776e+07,
+       -3.059482e+07, -3.445346e+07, -3.841051e+07, -4.246091e+07,..."
